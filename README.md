@@ -25,3 +25,7 @@ A complete R-based metabolomics analysis pipeline comparing  metabolite profiles
 Augustine Chukwu Onuh Ph.D
 Specialisation: Metabolomics, Bioinformatics  
 Languages: R, Python
+
+## Analysis Report
+Full interactive report available here:
+https://rpubs.com/Onuh007/1438987
